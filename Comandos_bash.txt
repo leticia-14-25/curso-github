@@ -3,3 +3,4 @@ CD -> move entre diretórios
 PWD -> mostra diretório de trabalho
 CAT -> exibe conteúdo do arquivo
 RM -> remove arquivo ou diretórios  
+RM -RF -> remove de forma recursiva e forçada todos diretórios 
