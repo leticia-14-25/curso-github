@@ -2,3 +2,14 @@ Esse arquivo contem informações adicionais para git
 
 primeiros comandos
 segundos comandos
+
+Este arquivo contém informações do git 
+
+- Primeiros passos
+- Segundo comando 
+
+# Comandos mais genéricos 
+- comandos estranhos 
+
+# Mais comandos !!!
+
