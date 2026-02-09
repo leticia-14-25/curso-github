@@ -1,4 +1,4 @@
-HELLPPP!!
+HELLPPP!!QQ
 
 LS -> lista arquivos
 CD -> move entre diretórios
